@@ -1,6 +1,6 @@
 ### Olá! Me chamo José Henrique, futuro Cientista de Dados. 👋😁
 ___
-- Estou atualmente no curso de Análise e Desenvolvimento de Sistemas e em um processo de transição de carreira.
+- Hoje sou formado no curso de Análise e Desenvolvimento de Sistemas e estou em um processo de transição de carreira.
 - Escolhi o universo Data Science para seguir carreira além de estar estudando também a fim de conhecimento as áreas de Front-End e Back-End no mundo da programação.
 ### Tecnologias que uso no meu dia a dia 🤖🖥️:
 
